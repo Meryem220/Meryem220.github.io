@@ -1,0 +1,143 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://meryem220.github.io/</id>
+  <title>DarkBloom</title>
+  <subtitle>My notes &amp; projects</subtitle>
+  <updated>2025-08-29T06:45:29+08:00</updated>
+  <author>
+    <name>Meryem220</name>
+    <uri>https://meryem220.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://meryem220.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://meryem220.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Meryem220 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>XSS</title>
+    <link href="https://meryem220.github.io/posts/XSS/" rel="alternate" type="text/html" title="XSS" />
+    <published>2025-08-28T22:58:15+08:00</published>
+  
+    <updated>2025-08-28T22:58:15+08:00</updated>
+  
+    <id>https://meryem220.github.io/posts/XSS/</id>
+    <content type="text/html" src="https://meryem220.github.io/posts/XSS/" />
+    <author>
+      <name>Meryem220</name>
+    </author>
+
+  
+    
+    <category term="OWASP_TOP_10" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Vulnerable and Outdated Components</title>
+    <link href="https://meryem220.github.io/posts/Vulnerable-and-Outdated-Comp/" rel="alternate" type="text/html" title="Vulnerable and Outdated Components" />
+    <published>2025-08-28T22:58:15+08:00</published>
+  
+    <updated>2025-08-28T22:58:15+08:00</updated>
+  
+    <id>https://meryem220.github.io/posts/Vulnerable-and-Outdated-Comp/</id>
+    <content type="text/html" src="https://meryem220.github.io/posts/Vulnerable-and-Outdated-Comp/" />
+    <author>
+      <name>Meryem220</name>
+    </author>
+
+  
+    
+    <category term="OWASP_TOP_10" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Security Misconfigurations</title>
+    <link href="https://meryem220.github.io/posts/Security-Misconfigurations/" rel="alternate" type="text/html" title="Security Misconfigurations" />
+    <published>2025-08-28T22:58:15+08:00</published>
+  
+    <updated>2025-08-28T22:58:15+08:00</updated>
+  
+    <id>https://meryem220.github.io/posts/Security-Misconfigurations/</id>
+    <content type="text/html" src="https://meryem220.github.io/posts/Security-Misconfigurations/" />
+    <author>
+      <name>Meryem220</name>
+    </author>
+
+  
+    
+    <category term="OWASP_TOP_10" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Security Login and Monitoring Flaws</title>
+    <link href="https://meryem220.github.io/posts/Security-Login-monitor-flaws/" rel="alternate" type="text/html" title="Security Login and Monitoring Flaws" />
+    <published>2025-08-28T22:58:15+08:00</published>
+  
+    <updated>2025-08-28T22:58:15+08:00</updated>
+  
+    <id>https://meryem220.github.io/posts/Security-Login-monitor-flaws/</id>
+    <content type="text/html" src="https://meryem220.github.io/posts/Security-Login-monitor-flaws/" />
+    <author>
+      <name>Meryem220</name>
+    </author>
+
+  
+    
+    <category term="OWASP_TOP_10" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>SSRF</title>
+    <link href="https://meryem220.github.io/posts/SSRF/" rel="alternate" type="text/html" title="SSRF" />
+    <published>2025-08-28T22:58:15+08:00</published>
+  
+    <updated>2025-08-28T22:58:15+08:00</updated>
+  
+    <id>https://meryem220.github.io/posts/SSRF/</id>
+    <content type="text/html" src="https://meryem220.github.io/posts/SSRF/" />
+    <author>
+      <name>Meryem220</name>
+    </author>
+
+  
+    
+    <category term="OWASP_TOP_10" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
+
+</feed>
+
+
