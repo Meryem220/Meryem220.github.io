@@ -2,7 +2,10 @@ name: Build and Deploy Jekyll Site
 
 on:
   push:
-    branches: ["main"]   # or "master" if that’s your default branch
+    branches: ["main"]
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -28,4 +31,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main   # ✅ User site uses `main`
           publish_dir: ./_site
